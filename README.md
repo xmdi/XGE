@@ -1,2 +1,2 @@
 # XGE
-game engine
+xmdi game engine
